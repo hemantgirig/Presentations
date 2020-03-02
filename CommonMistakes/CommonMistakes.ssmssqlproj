@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CommonMistakes">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="GOSWAMI-JX8RTT2:GOSWAMI-JX8RTT2\Hemantgiri Goswami">
+          <Created>2019-07-24T11:21:30.897831+05:30</Created>
+          <Type>SQL</Type>
+          <Server>GOSWAMI-JX8RTT2</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="001_ChooseRightDataType.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>001_ChooseRightDataType.sql</FullPath>
+        </FileNode>
+        <FileNode Name="002_Convert_Implicit.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>002_Convert_Implicit.sql</FullPath>
+        </FileNode>
+        <FileNode Name="003-1_AvoidUsingIdentityValues.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>003-1_AvoidUsingIdentityValues.sql</FullPath>
+        </FileNode>
+        <FileNode Name="003-2_AvoidUsingIdentityValues.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>003-2_AvoidUsingIdentityValues.sql</FullPath>
+        </FileNode>
+        <FileNode Name="004-1_NullBitmap.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>004-1_NullBitmap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="005_AutoGrowth.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>005_AutoGrowth.sql</FullPath>
+        </FileNode>
+        <FileNode Name="005-2_Audting_AutoGrowth.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>005-2_Audting_AutoGrowth.sql</FullPath>
+        </FileNode>
+        <FileNode Name="006_ReduceIO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>006_ReduceIO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="007_IndexDegradePerformance.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:GOSWAMI-JX8RTT2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>GOSWAMI-JX8RTT2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>007_IndexDegradePerformance.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
